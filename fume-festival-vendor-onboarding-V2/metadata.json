@@ -1,0 +1,7 @@
+{
+  "name": "FUME Festival Vendor Onboarding",
+  "description": "A comprehensive onboarding portal for food vendors at FUME Festival 2026, featuring document validation, equipment tracking, and menu management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
